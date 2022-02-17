@@ -6,9 +6,9 @@
 
 ## I'm a Programming Lover!
 - 🔭 I’m currently working at [ReliSource Technologies Ltd.][company]
-- 🌱 I’m currently learning Data Stucture, Algorithm and Machine Learning.
-- 👯 I’m looking to collaborate on Big Team/Project.
-- ⚡ Fun fact: I love Misic!
+- 🌱 Learning Computer Vision and Machine Learning.
+- 👯 Looking for collaborating with a big Team/Project.
+- ⚡ Fun fact: I love Music!
 
 ### Connect with me:
 
