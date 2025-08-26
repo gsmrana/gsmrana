@@ -1,14 +1,14 @@
-### Hi there, I'm [GSM Rana][website]
+### Hi there, I'm [Sultan Mhamud Rana][website]
 
 <!--
 **gsmrana/gsmrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ## I'm a Programming Lover!
-- 🔭 I’m currently working at [ReliSource Technologies Ltd.][company]
-- 🌱 Learning Computer Vision and Machine Learning.
+- 🔭 Technical Lead at [ReliSource Technologies Ltd.][company]
+- 🌱 Expert in Embedded System and firmware programming.
 - 👯 Looking for collaborating with a big Team/Project.
-- ⚡ Fun fact: I love Music!
+- ⚡ Learning Computer Vision and Machine Learning.
 
 ### Connect with me:
 
@@ -32,11 +32,11 @@
 <br />
 <br />
 
-<img width="550px" alt="GSM Rana Github Stats"  src="https://github-readme-stats.vercel.app/api?username=gsmrana&show_icons=true"/>
+<img width="550px" alt="Sultan Mhamud Rana Github Stats"  src="https://github-readme-stats.vercel.app/api?username=gsmrana&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=gsmrana&card_width=550)](https://github.com/gsmrana/gsmrana)
 
 
 [company]: https://www.relisource.com/
-[website]: https://www.gsmrana.com/
+[website]: https://www.gsmrana.me/
 [linkedin]: https://www.linkedin.com/in/gsmrana/
