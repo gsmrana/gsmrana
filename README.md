@@ -1,14 +1,14 @@
-### Hi there, I'm [Sultan Mhamud Rana][website]
+### Hi there, I'm [Sultan Mahmud Rana][website]
 
 <!--
 **gsmrana/gsmrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm a Programming Lover!
+## I'm passionate about programming!
 - 🔭 Technical Lead at [ReliSource Technologies Ltd.][company]
 - 🌱 Expert in Embedded System and firmware programming.
-- 👯 Looking for collaborating with a big Team/Project.
-- ⚡ Learning Computer Vision and Machine Learning.
+- 👯 Looking for collaboration with large Team/Project.
+- ⚡ Diving into Machine Learning ang Generative AI.
 
 ### Connect with me:
 
