@@ -32,9 +32,9 @@
 <br />
 <br />
 
-<img width="550px" alt="Sultan Mhamud Rana Github Stats"  src="https://github-readme-stats.vercel.app/api?username=gsmrana&show_icons=true"/>
+<img width="550px" alt="Sultan Mhamud Rana Github Stats"  src="https://github-readme-stats-gsmrana.vercel.app/api?username=gsmrana&show_icons=true&hide_border=true&theme=default&count_private=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=gsmrana&card_width=550)](https://github.com/gsmrana/gsmrana)
+[![Top Langs card](https://github-readme-stats-gsmrana.vercel.app/api/top-langs/?username=gsmrana&card_width=550)](https://github.com/gsmrana/gsmrana)
 
 
 [company]: https://www.relisource.com/
